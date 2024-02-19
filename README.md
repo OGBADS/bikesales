@@ -1,2 +1,2 @@
-# cofeesales
-This repo contains sample project for different cofee sales in three different countries.
+# bikesales
+This repo contains a sample project for bike sales in three different regions; Europe, the Pacific, and North America.
